@@ -1,8 +1,8 @@
-# Résultats initials
+# Résultats initiaux
 
-Testé avec un hebergement Github pages sans modifications du code source originel.
+Testé avec un hébergement Github pages sans modifications du code source originel.
 
-## Scores lighthouse
+## Scores lighthouse avant
 
 Accueil mobile :
 - Performance: 75
@@ -27,6 +27,32 @@ Contact ordinateur :
 - Accessibilité: 76
 - Meilleures pratiques: 93
 - SEO: 90
+
+## Scores lighthouse après
+
+Accueil mobile :
+- Performance: 87 (+12)
+- Accessibilité: 84 (+0)
+- Meilleures pratiques: 87 (+1)
+- SEO: 86 (+8)
+
+Accueil ordinateur :
+- Performance: 98 (+16)
+- Accessibilité: 81 (+0)
+- Meilleures pratiques: 93 (+0)
+- SEO: 90 (+9)
+
+Contact mobile :
+- Performance: 93 (-6)
+- Accessibilité: 74 (-2)
+- Meilleures pratiques: 93 (+7)
+- SEO: 92 (+11)
+
+Contact ordinateur :
+- Performance: 100 (+0)
+- Accessibilité: 76 (+0)
+- Meilleures pratiques: 93 (+0)
+- SEO: 90 (+0)
 
 # Points d'améliorations
 
