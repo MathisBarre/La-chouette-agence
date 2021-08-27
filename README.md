@@ -54,6 +54,11 @@ Contact ordinateur :
 - Meilleures pratiques: 93 (+0)
 - SEO: 90 (+0)
 
+# Validation W3C
+
+[W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathisbarre.github.io%2FMathisBarre_4_05022021%2Findex.html)
+[W3C validator contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmathisbarre.github.io%2FMathisBarre_4_05022021%2Fcontact.html)
+
 # Points d'améliorations
 
 ## Performance
