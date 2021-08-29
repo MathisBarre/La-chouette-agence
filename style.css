@@ -1049,3 +1049,7 @@ h4 {
   white-space: nowrap;
   border-width: 0;
 }
+
+*:focus {
+  border: gray dashed 1px!important;
+}
